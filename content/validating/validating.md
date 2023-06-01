@@ -83,3 +83,4 @@ subnet = bt.metagraph(1)
 stake_requirement = subnet.S.sort()[0][-128:]
 print ('validator permit requirement', stake_requirement)
 ```
+
